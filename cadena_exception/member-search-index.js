@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p9_10","c":"CadenaException","l":"CadenaException(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"mx.unam.fi.poo.g1.p9_10","c":"CadenaException","l":"getNombre()"}];updateSearchResults();
