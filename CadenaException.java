@@ -21,7 +21,7 @@ public class CadenaException extends Exception {
    * @return mensaje -> Regresa el atributo mensaje
   **/
 
-  public String getNombre() {
+  public String getMensaje() {
     return super.getMessage();
   }
 }

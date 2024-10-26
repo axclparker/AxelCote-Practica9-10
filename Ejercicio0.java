@@ -15,7 +15,7 @@ class Operacion {
   }
 }
 
-public class Ejercicio0 {
+public class Ejercicio0 { 
   public static void main(String[] args) {
     Operacion op = new Operacion();
     try {
